@@ -37,7 +37,7 @@ plugins:
 #  - jekyll-admin
 
 source: content
-destination: site
+destination: docs
 permalink: news/:year/:title
 defaults:
   - scope:
@@ -52,6 +52,7 @@ defaults:
       layout: news
 #      permalink: "./news/:year:/:title"
 
+#defaults:
 #  -
 #    scope:
 #      path: ""      # an empty string here means all files in the project

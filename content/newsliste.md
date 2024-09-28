@@ -5,4 +5,4 @@ permalink: news/
 ---
 ## Überschrift 2
 
-dieses file heisst news.md und listet die posts auf
+dieses file heisst newsliste.md und listet die posts auf

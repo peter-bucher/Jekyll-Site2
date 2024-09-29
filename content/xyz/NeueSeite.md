@@ -1,5 +1,5 @@
 ---
-title: Test: Neue Unterseite
+title: Test - Neue Unterseite
 permalink: index.html
 ---
 # Testseite im Unterverzeichnis XYZ

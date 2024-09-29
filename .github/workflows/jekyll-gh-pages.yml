@@ -37,8 +37,6 @@ jobs:
           destination: docs/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-          with:
-            path: docs/
 
   # Deployment job
   deploy:

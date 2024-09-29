@@ -1,6 +1,6 @@
 ---
 title: Test - Neue Unterseite
-permalink: index.html
+permalink: index.htm
 ---
 # Testseite im Unterverzeichnis XYZ
 asdöljaösldjkf
